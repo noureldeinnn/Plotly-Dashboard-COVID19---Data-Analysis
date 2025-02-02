@@ -56,20 +56,5 @@ This project focuses on analyzing and visualizing COVID-19 data using Google Col
      - Create an interactive dashboard using Plotly Dash.
    - The dashboard integrates all visualizations for a seamless user experience.
 
-## File Structure
-
-- **COVID.py**: Python script containing data analysis and visualizations generated from Google Colab.
-- **app.py**: Main dashboard script that calls visualizations from `COVID.py` and creates an interactive dashboard.
-- **data/**: Folder containing the five CSV files.
-- **requirements.txt**: List of required Python libraries for the project.
-
-## Visualizations
-
-The following visualizations were created using Plotly:
-
-- **Sunburst Chart**: Hierarchical breakdown of data.
-- **Line Graphs**: Trends over time.
-- **Area Graphs**: Distribution and trends.
-- **Pie Charts**: Proportional breakdowns.
 
 
